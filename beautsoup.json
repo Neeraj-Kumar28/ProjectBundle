@@ -1,0 +1,33 @@
+{
+    "@context": "http://schema.org/",
+    "@type": "WebSite",
+    "mainEntity": {
+      "@type": "Organization",
+      "name": "LATKA",
+      "foundingDate": "2017-07",
+      "url": "https://getlatka.com/",
+      "logo": "https://getlatka.com/assets/img/getlatka.png",
+      "description": "Latka SaaS database is the leading source of private SaaS company data. Data includes Revenue, Customer count, Churn, Customer Acquisition Cost, Average Contract Values, & Payback periods.",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "2054 University Ave, 32A",
+        "addressLocality": "Berkeley",
+        "addressRegion": "CA",
+        "postalCode": "94704",
+        "addressCountry": "United States"
+      },
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "contactType": "customer support",
+        "email": "nathan@nathanlatka.com",
+        "url": "https://getlatka.com/"
+      },
+      "sameAs": [
+        "https://nathanlatka.com",
+        "https://twitter.com/NathanLatka",
+        "https://www.facebook.com/NathanWLatka/",
+        "https://www.linkedin.com/in/nathanlatka",
+        "https://www.instagram.com/nathanlatka"
+      ]
+    }
+  }
